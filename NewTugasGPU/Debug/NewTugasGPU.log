@@ -1,0 +1,492 @@
+﻿  Main.cpp
+e:\learn\newtugasgpu\newtugasgpu\lesson1.cpp(146): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson2.cpp(159): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson3.cpp(164): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson4.cpp(171): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson5.cpp(216): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson6.cpp(288): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson7.cpp(295): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson8.cpp(303): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson9.cpp(102): warning C4018: '<': signed/unsigned mismatch
+e:\learn\newtugasgpu\newtugasgpu\lesson9.cpp(118): warning C4018: '<': signed/unsigned mismatch
+e:\learn\newtugasgpu\newtugasgpu\lesson9.cpp(281): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson10.cpp(351): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson11.cpp(293): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson12.cpp(300): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson13.cpp(219): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson14.cpp(234): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson15.cpp(283): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson16.cpp(305): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson17.cpp(316): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson18.cpp(352): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson19.cpp(332): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson20.cpp(294): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson21.cpp(547): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson22.cpp(232): warning C4018: '<': signed/unsigned mismatch
+e:\learn\newtugasgpu\newtugasgpu\lesson22.cpp(268): warning C4018: '<': signed/unsigned mismatch
+e:\learn\newtugasgpu\newtugasgpu\lesson22.cpp(271): warning C4018: '<': signed/unsigned mismatch
+e:\learn\newtugasgpu\newtugasgpu\lesson22.cpp(296): warning C4018: '<': signed/unsigned mismatch
+e:\learn\newtugasgpu\newtugasgpu\lesson22.cpp(299): warning C4018: '<': signed/unsigned mismatch
+e:\learn\newtugasgpu\newtugasgpu\lesson22.cpp(956): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson23.cpp(357): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson24.cpp(373): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson25.cpp(328): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson26.cpp(332): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson27.cpp(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\learn\newtugasgpu\newtugasgpu\lesson27.cpp(355): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson28.cpp(360): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson29.cpp(355): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\mathex.h : warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+e:\learn\newtugasgpu\newtugasgpu\lesson30.cpp(144): warning C4101: 'i': unreferenced local variable
+e:\learn\newtugasgpu\newtugasgpu\lesson30.cpp(399): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson31.cpp(114): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+e:\learn\newtugasgpu\newtugasgpu\lesson31.cpp(215): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\nehegl.cpp(86): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\nehegl.cpp(526): warning C4244: 'argument': conversion from 'unsigned long' to 'float', possible loss of data
+e:\learn\newtugasgpu\newtugasgpu\nehegl.cpp(549): warning C4244: 'argument': conversion from 'unsigned long' to 'float', possible loss of data
+e:\learn\newtugasgpu\newtugasgpu\lesson33.cpp(605): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson34.cpp(234): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+e:\learn\newtugasgpu\newtugasgpu\lesson34.cpp(335): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson43.cpp(137): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\learn\newtugasgpu\newtugasgpu\lesson43.cpp(213): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+e:\learn\newtugasgpu\newtugasgpu\lesson43.cpp(314): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+e:\learn\newtugasgpu\newtugasgpu\lesson44.cpp(214): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+e:\learn\newtugasgpu\newtugasgpu\lesson44.cpp(315): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+ARB_Multisample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+baseapp.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+baseapp.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+baseapp.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+baseapp.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+baseapp.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+baseapp.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+baseapp.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+baseapp.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+baseapp.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+baseapp.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson1.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson1.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson1.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson1.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson1.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson1.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson1.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson1.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson1.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson1.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson10.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson10.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson10.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson10.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson10.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson10.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson10.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson10.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson10.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson10.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson11.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson11.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson11.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson11.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson11.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson11.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson11.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson11.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson11.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson11.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson12.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson12.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson12.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson12.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson12.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson12.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson12.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson12.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson12.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson12.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson13.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson13.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson13.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson13.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson13.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson13.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson13.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson13.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson13.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson13.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson14.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson14.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson14.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson14.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson14.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson14.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson14.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson14.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson14.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson14.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson15.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson15.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson15.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson15.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson15.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson15.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson15.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson15.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson15.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson15.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson16.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson16.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson16.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson16.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson16.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson16.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson16.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson16.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson16.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson16.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson17.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson17.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson17.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson17.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson17.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson17.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson17.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson17.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson17.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson17.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson18.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson18.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson18.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson18.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson18.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson18.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson18.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson18.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson18.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson18.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson19.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson19.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson19.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson19.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson19.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson19.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson19.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson19.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson19.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson19.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson2.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson2.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson2.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson2.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson2.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson2.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson2.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson2.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson2.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson2.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson20.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson20.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson20.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson20.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson20.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson20.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson20.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson20.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson20.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson20.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson21.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson21.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson21.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson21.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson21.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson21.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson21.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson21.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson21.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson21.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson22.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson22.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson22.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson22.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson22.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson22.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson22.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson22.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson22.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson22.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson23.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson23.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson23.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson23.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson23.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson23.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson23.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson23.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson23.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson23.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson24.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson24.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson24.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson24.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson24.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson24.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson24.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson24.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson24.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson24.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson25.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson25.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson25.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson25.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson25.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson25.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson25.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson25.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson25.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson25.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson26.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson26.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson26.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson26.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson26.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson26.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson26.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson26.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson26.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson26.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson27.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson27.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson27.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson27.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson27.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson27.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson27.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson27.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson27.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson27.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson28.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson28.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson28.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson28.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson28.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson28.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson28.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson28.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson28.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson28.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson29.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson29.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson29.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson29.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson29.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson29.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson29.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson29.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson29.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson29.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson3.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson3.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson3.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson3.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson3.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson3.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson3.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson3.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson3.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson3.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson30.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson30.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson30.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson30.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson30.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson30.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson30.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson30.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson30.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson30.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson31.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson31.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson31.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson31.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson31.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson31.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson31.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson31.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson31.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson31.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson33.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson33.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson33.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson33.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson33.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson33.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson33.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson33.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson33.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson33.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson34.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson34.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson34.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson34.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson34.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson34.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson34.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson34.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson34.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson34.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson35.obj : warning LNK4006: "struct GL_Window * g_window" (?g_window@@3PAUGL_Window@@A) already defined in Lesson32.obj; second definition ignored
+Lesson35.obj : warning LNK4006: "struct Keys * g_keys" (?g_keys@@3PAUKeys@@A) already defined in Lesson32.obj; second definition ignored
+Lesson39.obj : warning LNK4006: "unsigned int base" (?base@@3IA) already defined in Lesson32.obj; second definition ignored
+Lesson4.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson4.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson4.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson4.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson4.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson4.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson4.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson4.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson4.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson4.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson41.obj : warning LNK4006: "unsigned int * texture" (?texture@@3PAIA) already defined in Lesson38.obj; second definition ignored
+Lesson43.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson43.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson43.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson43.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson43.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson43.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson43.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson43.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson43.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson43.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson44.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson44.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson44.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson44.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson44.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson44.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson44.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson44.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson44.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson44.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson45.obj : warning LNK4006: "struct GL_Window * g_window" (?g_window@@3PAUGL_Window@@A) already defined in Lesson32.obj; second definition ignored
+Lesson45.obj : warning LNK4006: "struct Keys * g_keys" (?g_keys@@3PAUKeys@@A) already defined in Lesson32.obj; second definition ignored
+Lesson46.obj : warning LNK4006: "struct GL_Window * g_window" (?g_window@@3PAUGL_Window@@A) already defined in Lesson32.obj; second definition ignored
+Lesson46.obj : warning LNK4006: "struct Keys * g_keys" (?g_keys@@3PAUKeys@@A) already defined in Lesson32.obj; second definition ignored
+Lesson46.obj : warning LNK4006: "float angle" (?angle@@3MA) already defined in Lesson35.obj; second definition ignored
+Lesson47.obj : warning LNK4006: "bool sp" (?sp@@3_NA) already defined in Lesson35.obj; second definition ignored
+Lesson48.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson48.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson48.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson48.obj : warning LNK4006: "class GLUquadric * quadratic" (?quadratic@@3PAVGLUquadric@@A) already defined in Lesson35.obj; second definition ignored
+Lesson48.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson48.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson48.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson48.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson48.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson48.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson48.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson5.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson5.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson5.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson5.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson5.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson5.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson5.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson5.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson5.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson5.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson6.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson6.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson6.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson6.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson6.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson6.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson6.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson6.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson6.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson6.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson7.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson7.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson7.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson7.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson7.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson7.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson7.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson7.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson7.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson7.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson8.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson8.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson8.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson8.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson8.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson8.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson8.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson8.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson8.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson8.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson9.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Lesson9.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Lesson9.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Lesson9.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson9.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson9.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson9.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Lesson9.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Lesson9.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Lesson9.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Main.obj : warning LNK4006: "void __cdecl CastShadow(struct glObject *,float *)" (?CastShadow@@YAXPAUglObject@@PAM@Z) already defined in Lesson27.obj; second definition ignored
+Main.obj : warning LNK4006: "void __cdecl DrawGLObject(struct glObject)" (?DrawGLObject@@YAXUglObject@@@Z) already defined in Lesson27.obj; second definition ignored
+Main.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Main.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Main.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Main.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Main.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Main.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Main.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Main.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Main.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Main.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Main.obj : warning LNK4006: "struct freetype::font_data our_font" (?our_font@@3Ufont_data@freetype@@A) already defined in Lesson43.obj; second definition ignored
+Main.obj : warning LNK4006: "struct TGAHeader tgaheader" (?tgaheader@@3UTGAHeader@@A) already defined in Lesson33.obj; second definition ignored
+Main.obj : warning LNK4006: "struct TGA tga" (?tga@@3UTGA@@A) already defined in Lesson33.obj; second definition ignored
+Main.obj : warning LNK4006: "unsigned char * uTGAcompare" (?uTGAcompare@@3PAEA) already defined in Lesson33.obj; second definition ignored
+Main.obj : warning LNK4006: "unsigned char * cTGAcompare" (?cTGAcompare@@3PAEA) already defined in Lesson33.obj; second definition ignored
+MilkshapeModel.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+MilkshapeModel.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+MilkshapeModel.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+MilkshapeModel.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+MilkshapeModel.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+MilkshapeModel.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+MilkshapeModel.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+MilkshapeModel.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+MilkshapeModel.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+MilkshapeModel.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+Model.obj : warning LNK4006: "void __cdecl KillGLWindow(void)" (?KillGLWindow@@YAXXZ) already defined in ArcBall.obj; second definition ignored
+Model.obj : warning LNK4006: "void __cdecl ReSizeGLScene(int,int)" (?ReSizeGLScene@@YAXHH@Z) already defined in ArcBall.obj; second definition ignored
+Model.obj : warning LNK4006: "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z) already defined in ArcBall.obj; second definition ignored
+Model.obj : warning LNK4006: "struct HDC__ * hDC" (?hDC@@3PAUHDC__@@A) already defined in ArcBall.obj; second definition ignored
+Model.obj : warning LNK4006: "struct HGLRC__ * hRC" (?hRC@@3PAUHGLRC__@@A) already defined in ArcBall.obj; second definition ignored
+Model.obj : warning LNK4006: "struct HWND__ * hWnd" (?hWnd@@3PAUHWND__@@A) already defined in ArcBall.obj; second definition ignored
+Model.obj : warning LNK4006: "struct HINSTANCE__ * hInstance" (?hInstance@@3PAUHINSTANCE__@@A) already defined in ArcBall.obj; second definition ignored
+Model.obj : warning LNK4006: "bool * keys" (?keys@@3PA_NA) already defined in ArcBall.obj; second definition ignored
+Model.obj : warning LNK4006: "bool active" (?active@@3_NA) already defined in ArcBall.obj; second definition ignored
+Model.obj : warning LNK4006: "bool fullscreen" (?fullscreen@@3_NA) already defined in ArcBall.obj; second definition ignored
+NeHeGL.obj : warning LNK4006: "int __cdecl ChangeScreenResolution(int,int,int)" (?ChangeScreenResolution@@YAHHHH@Z) already defined in Main.obj; second definition ignored
+NeHeGL.obj : warning LNK4006: "int __cdecl CreateWindowGL(struct GL_Window *)" (?CreateWindowGL@@YAHPAUGL_Window@@@Z) already defined in Main.obj; second definition ignored
+NeHeGL.obj : warning LNK4006: "int __cdecl DestroyWindowGL(struct GL_Window *)" (?DestroyWindowGL@@YAHPAUGL_Window@@@Z) already defined in Main.obj; second definition ignored
+NeHeGL.obj : warning LNK4006: "int __cdecl RegisterWindowClass(struct Application *)" (?RegisterWindowClass@@YAHPAUApplication@@@Z) already defined in Main.obj; second definition ignored
+NeHeGL.obj : warning LNK4006: "void __cdecl ReshapeGL(int,int)" (?ReshapeGL@@YAXHH@Z) already defined in Main.obj; second definition ignored
+NeHeGL.obj : warning LNK4006: "void __cdecl TerminateApplication(struct GL_Window *)" (?TerminateApplication@@YAXPAUGL_Window@@@Z) already defined in Main.obj; second definition ignored
+NeHeGL.obj : warning LNK4006: "void __cdecl ToggleFullscreen(struct GL_Window *)" (?ToggleFullscreen@@YAXPAUGL_Window@@@Z) already defined in Main.obj; second definition ignored
+NeHeGL.obj : warning LNK4006: "long __stdcall WindowProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WindowProc@@YGJPAUHWND__@@IIJ@Z) already defined in Main.obj; second definition ignored
+NeHeGL.obj : warning LNK4006: "int mouse_x" (?mouse_x@@3HA) already defined in Main.obj; second definition ignored
+NeHeGL.obj : warning LNK4006: "int mouse_y" (?mouse_y@@3HA) already defined in Main.obj; second definition ignored
+TGALoader.obj : warning LNK4006: "struct TGAHeader tgaheader" (?tgaheader@@3UTGAHeader@@A) already defined in Lesson33.obj; second definition ignored
+TGALoader.obj : warning LNK4006: "struct TGA tga" (?tga@@3UTGA@@A) already defined in Lesson33.obj; second definition ignored
+TGALoader.obj : warning LNK4006: "unsigned char * uTGAcompare" (?uTGAcompare@@3PAEA) already defined in Lesson33.obj; second definition ignored
+TGALoader.obj : warning LNK4006: "unsigned char * cTGAcompare" (?cTGAcompare@@3PAEA) already defined in Lesson33.obj; second definition ignored
+E:\learn\NewTugasGPU\Debug\NewTugasGPU.exe : warning LNK4088: image being generated due to /FORCE option; image may not run
+  NewTugasGPU.vcxproj -> E:\learn\NewTugasGPU\Debug\NewTugasGPU.exe
+  NewTugasGPU.vcxproj -> E:\learn\NewTugasGPU\Debug\NewTugasGPU.pdb (Full PDB)
+          1 file(s) copied.

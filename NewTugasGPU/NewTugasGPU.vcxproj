@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\soil.1.16.0\build\native\soil.props" Condition="Exists('..\packages\soil.1.16.0\build\native\soil.props')" />
+  <Import Project="..\packages\Glew_dynamic.2.0.0.0\build\native\Glew_dynamic.props" Condition="Exists('..\packages\Glew_dynamic.2.0.0.0\build\native\Glew_dynamic.props')" />
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{ED9C9987-D0F8-44C7-A105-2188935BDE6F}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>NewTugasGPU</RootNamespace>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>E:\learn\cglib\include;E:\learn\NewTugasGPU\packages\glext\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>OpenGL32.lib;GLu32.lib;SOIL.lib;Winmm.lib;cg.lib;cgGl.lib;glext.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalOptions>/FORCE:MULTIPLE %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalLibraryDirectories>E:\learn\cglib\lib;E:\learn\cglib\bin;E:\learn\NewTugasGPU\packages\glext\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+    <ResourceCompile>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>E:\learn\cglib\include;E:\learn\NewTugasGPU\packages\glext\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>OpenGL32.lib;GLu32.lib;SOIL.lib;Winmm.lib;cg.lib;cgGl.lib;glext.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalOptions>/FORCE:MULTIPLE %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalLibraryDirectories>E:\learn\cglib\lib;E:\learn\cglib\bin;E:\learn\NewTugasGPU\packages\glext\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+    <ResourceCompile>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ARB_Multisample.cpp" />
+    <ClCompile Include="ArcBall.cpp" />
+    <ClCompile Include="baseapp.h" />
+    <ClCompile Include="bmp.cpp" />
+    <ClCompile Include="FreeType.cpp" />
+    <ClCompile Include="glCamera.cpp" />
+    <ClCompile Include="glFont.cpp" />
+    <ClCompile Include="glPoint.cpp" />
+    <ClCompile Include="glVector.cpp" />
+    <ClCompile Include="Image.cpp" />
+    <ClCompile Include="Lesson1.cpp" />
+    <ClCompile Include="Lesson10.cpp" />
+    <ClCompile Include="Lesson11.cpp" />
+    <ClCompile Include="Lesson12.cpp" />
+    <ClCompile Include="Lesson13.cpp" />
+    <ClCompile Include="Lesson14.cpp" />
+    <ClCompile Include="Lesson15.cpp" />
+    <ClCompile Include="Lesson16.cpp" />
+    <ClCompile Include="Lesson17.cpp" />
+    <ClCompile Include="Lesson18.cpp" />
+    <ClCompile Include="Lesson19.cpp" />
+    <ClCompile Include="Lesson2.cpp" />
+    <ClCompile Include="Lesson20.cpp" />
+    <ClCompile Include="Lesson21.cpp" />
+    <ClCompile Include="Lesson22.cpp" />
+    <ClCompile Include="Lesson23.cpp" />
+    <ClCompile Include="Lesson24.cpp" />
+    <ClCompile Include="Lesson25.cpp" />
+    <ClCompile Include="Lesson26.cpp" />
+    <ClCompile Include="Lesson27.cpp" />
+    <ClCompile Include="Lesson28.cpp" />
+    <ClCompile Include="Lesson29.cpp" />
+    <ClCompile Include="Lesson3.cpp" />
+    <ClCompile Include="Lesson30.cpp" />
+    <ClCompile Include="Lesson31.cpp" />
+    <ClCompile Include="Lesson32.cpp" />
+    <ClCompile Include="Lesson33.cpp" />
+    <ClCompile Include="Lesson34.cpp" />
+    <ClCompile Include="Lesson35.cpp" />
+    <ClCompile Include="Lesson36.cpp" />
+    <ClCompile Include="Lesson37.cpp" />
+    <ClCompile Include="Lesson38.cpp" />
+    <ClCompile Include="Lesson39.cpp" />
+    <ClCompile Include="Lesson4.cpp" />
+    <ClCompile Include="Lesson40.cpp" />
+    <ClCompile Include="Lesson41.cpp" />
+    <ClCompile Include="Lesson42.cpp" />
+    <ClCompile Include="Lesson43.cpp" />
+    <ClCompile Include="Lesson44.cpp" />
+    <ClCompile Include="Lesson45.cpp" />
+    <ClCompile Include="Lesson46.cpp" />
+    <ClCompile Include="Lesson47.cpp" />
+    <ClCompile Include="Lesson48.cpp" />
+    <ClCompile Include="Lesson5.cpp" />
+    <ClCompile Include="Lesson6.cpp" />
+    <ClCompile Include="Lesson7.cpp" />
+    <ClCompile Include="Lesson8.cpp" />
+    <ClCompile Include="Lesson9.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="MilkshapeModel.cpp" />
+    <ClCompile Include="Model.cpp" />
+    <ClCompile Include="NeHeGL.cpp" />
+    <ClCompile Include="TGALoader.cpp" />
+    <ClCompile Include="Tmatrix.cpp" />
+    <ClCompile Include="Tray.cpp" />
+    <ClCompile Include="Tvector.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="3Dobject.h" />
+    <ClInclude Include="ARB_Multisample.h" />
+    <ClInclude Include="ArcBall.h" />
+    <ClInclude Include="bmp.h" />
+    <ClInclude Include="FreeType.h" />
+    <ClInclude Include="glCamera.h" />
+    <ClInclude Include="GLext.h" />
+    <ClInclude Include="glFont.h" />
+    <ClInclude Include="glPoint.h" />
+    <ClInclude Include="glVector.h" />
+    <ClInclude Include="Image.h" />
+    <ClInclude Include="Lesson31.h" />
+    <ClInclude Include="Mathex.h" />
+    <ClInclude Include="MilkshapeModel.h" />
+    <ClInclude Include="Model.h" />
+    <ClInclude Include="NeHeGL.h" />
+    <ClInclude Include="Physics1.h" />
+    <ClInclude Include="Physics2.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="Texture.h" />
+    <ClInclude Include="Tga.h" />
+    <ClInclude Include="Tmatrix.h" />
+    <ClInclude Include="Tray.h" />
+    <ClInclude Include="Tvector.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\gpu\gpu\data\bitmap5.bmp" />
+    <Image Include="..\..\GPU\GPU\Data\Crate.bmp" />
+    <Image Include="..\..\GPU\GPU\Data\Glass.bmp" />
+    <Image Include="..\..\GPU\GPU\Data\NeHe.bmp" />
+    <Image Include="..\..\GPU\GPU\Data\Star.bmp" />
+    <Image Include="Data\Butterfly1.bmp" />
+    <Image Include="Data\Butterfly2.bmp" />
+    <Image Include="Data\Butterfly3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="NewTugasGPU1.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+    <Import Project="..\packages\glfw.redist.3.2.1\build\native\glfw.redist.targets" Condition="Exists('..\packages\glfw.redist.3.2.1\build\native\glfw.redist.targets')" />
+    <Import Project="..\packages\glfw.3.2.1\build\native\glfw.targets" Condition="Exists('..\packages\glfw.3.2.1\build\native\glfw.targets')" />
+    <Import Project="..\packages\freeglut.redist.2.8.1.15\build\native\freeglut.redist.targets" Condition="Exists('..\packages\freeglut.redist.2.8.1.15\build\native\freeglut.redist.targets')" />
+    <Import Project="..\packages\freeglut.2.8.1.15\build\native\freeglut.targets" Condition="Exists('..\packages\freeglut.2.8.1.15\build\native\freeglut.targets')" />
+    <Import Project="..\packages\freetype.redist.2.7.1.1\build\native\freetype.redist.targets" Condition="Exists('..\packages\freetype.redist.2.7.1.1\build\native\freetype.redist.targets')" />
+    <Import Project="..\packages\freetype.2.7.1.1\build\native\freetype.targets" Condition="Exists('..\packages\freetype.2.7.1.1\build\native\freetype.targets')" />
+  </ImportGroup>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\glfw.redist.3.2.1\build\native\glfw.redist.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\glfw.redist.3.2.1\build\native\glfw.redist.targets'))" />
+    <Error Condition="!Exists('..\packages\glfw.3.2.1\build\native\glfw.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\glfw.3.2.1\build\native\glfw.targets'))" />
+    <Error Condition="!Exists('..\packages\freeglut.redist.2.8.1.15\build\native\freeglut.redist.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\freeglut.redist.2.8.1.15\build\native\freeglut.redist.targets'))" />
+    <Error Condition="!Exists('..\packages\freeglut.2.8.1.15\build\native\freeglut.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\freeglut.2.8.1.15\build\native\freeglut.targets'))" />
+    <Error Condition="!Exists('..\packages\Glew_dynamic.2.0.0.0\build\native\Glew_dynamic.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Glew_dynamic.2.0.0.0\build\native\Glew_dynamic.props'))" />
+    <Error Condition="!Exists('..\packages\soil.1.16.0\build\native\soil.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\soil.1.16.0\build\native\soil.props'))" />
+    <Error Condition="!Exists('..\packages\freetype.redist.2.7.1.1\build\native\freetype.redist.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\freetype.redist.2.7.1.1\build\native\freetype.redist.targets'))" />
+    <Error Condition="!Exists('..\packages\freetype.2.7.1.1\build\native\freetype.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\freetype.2.7.1.1\build\native\freetype.targets'))" />
+  </Target>
+</Project>
